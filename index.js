@@ -4,4 +4,4 @@
     
 }) */
 
-const closeCharacter = require('./close-character')
+const closeCharacter = require('./src/close-character')
